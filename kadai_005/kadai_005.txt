@@ -1,6 +1,7 @@
 933fac5 (HEAD -> main) 日本語訳を追記
 4372b35 hello_world.txtを追加
 
+PS C:\Users\tmfya\OneDrive\デスクトップ\terakoya用\git_challenge> echo "hello,world!" >> hello_world.txt
 PS C:\Users\tmfya\OneDrive\デスクトップ\terakoya用\git_challenge> git add .
 PS C:\Users\tmfya\OneDrive\デスクトップ\terakoya用\git_challenge> git commit -m hello_world.txtを追加
 [main 4372b35] hello_world.txtを追加
